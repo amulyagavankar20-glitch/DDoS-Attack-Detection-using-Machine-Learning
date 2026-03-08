@@ -1,0 +1,8 @@
+Install Venv in the directory of the project
+python -m venv venv
+
+Activate the Environment
+venv\Scripts\activate
+
+Shut Down the Environment
+Deactivate
