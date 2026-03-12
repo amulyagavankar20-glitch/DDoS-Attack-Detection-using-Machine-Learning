@@ -6,3 +6,4 @@ seaborn
 joblib
 pyarrow
 ipykernel
+imbalanced-learn
