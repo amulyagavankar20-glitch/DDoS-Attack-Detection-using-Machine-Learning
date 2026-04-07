@@ -1,0 +1,39 @@
+feature
+Protocol
+Flow Duration
+Total Fwd Packets
+Total Backward Packets
+Fwd Packets Length Total
+Fwd Packet Length Max
+Fwd Packet Length Min
+Fwd Packet Length Std
+Bwd Packet Length Max
+Bwd Packet Length Min
+Bwd Packet Length Mean
+Flow Bytes/s
+Flow Packets/s
+Flow IAT Mean
+Flow IAT Max
+Flow IAT Min
+Bwd IAT Total
+Bwd IAT Mean
+Bwd IAT Min
+Fwd PSH Flags
+Fwd Header Length
+Bwd Header Length
+Bwd Packets/s
+Packet Length Max
+Packet Length Variance
+SYN Flag Count
+ACK Flag Count
+URG Flag Count
+CWE Flag Count
+Down/Up Ratio
+Init Fwd Win Bytes
+Init Bwd Win Bytes
+Fwd Act Data Packets
+Fwd Seg Size Min
+Active Mean
+Active Std
+Active Max
+Idle Std
