@@ -1,0 +1,40 @@
+# Data files (large)
+*.parquet
+*.pkl
+data/merged_testing.csv
+
+# Archived model exports
+*.zip
+
+# Saved models directory
+
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+
+# Logs
+*.log
